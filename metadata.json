@@ -1,0 +1,6 @@
+{
+  "name": "VÉRION",
+  "description": "Official digital flagship for VÉRION and the VÉRION ONE. Titanium, Sapphire, Ceramic. Engineered to be desired.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
